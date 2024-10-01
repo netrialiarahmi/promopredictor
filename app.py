@@ -48,11 +48,6 @@ with st.sidebar:
     
     st.markdown("<h4 style='text-align: center;'>Disusun Oleh:</h4>", unsafe_allow_html=True)
     st.markdown("""
-        <ul style='list-style-position: inside; text-align: left;'>
-            <li>Netri Alia Rahmi</li>
-            <li>Elzandi Irfan Zikra</li>
-            <li>Muhammad Reza Erfit</li>
-        </ul>
     """, unsafe_allow_html=True)
 
 
