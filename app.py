@@ -32,7 +32,7 @@ def generate_qr_code(data):
     buffer.seek(0)
     return buffer
 
-buffer = generate_qr_code("https://iristentan-findit2024.streamlit.app/")
+buffer = generate_qr_code("https://finditugm.streamlit.app/")
 
 # Setup sidebar dengan styling yang lebih menarik
 with st.sidebar:
